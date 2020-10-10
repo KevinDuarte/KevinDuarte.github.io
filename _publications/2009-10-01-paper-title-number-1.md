@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "VideoCapsuleNet: A Simplified Network for Action Detection"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/videocapsulenet
+excerpt: 'This work is the first to extend capsule networks to the video domain.'
+date: 2018
+venue: 'Neural Information Processing Systems'
+paperurl: 'http://papers.nips.cc/paper/7988-videocapsulenet-a-simplified-network-for-action-detection.pdf'
+citation: 'Duarte, K., Rawat, Y., & Shah, M. (2018). Videocapsulenet: A simplified network for action detection. In Advances in Neural Information Processing Systems (pp. 7610-7619).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This work is the first to extend capsule networks to the video domain.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](http://papers.nips.cc/paper/7988-videocapsulenet-a-simplified-network-for-action-detection.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Duarte, K., Rawat, Y., & Shah, M. (2018). Videocapsulenet: A simplified network for action detection. In Advances in Neural Information Processing Systems (pp. 7610-7619).
