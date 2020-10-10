@@ -13,4 +13,4 @@ I am a fourth-year PhD student in the [Center for Research in Computer Vision](h
 
 My research interests lie in the intersection of computer vision and deep learning. Specifically, my research focuses on applying capsule networks to various video related tasks like video action detection, video object segmentation, and text-based video segmentation. 
 
-A link to my Resume can be found [here](https://github.com/KevinDuarte/KevinDuarte.github.io/raw/master/files/KevinDuarteResume.pdf)
+My résumé can be found [here](https://github.com/KevinDuarte/KevinDuarte.github.io/raw/master/files/KevinDuarteResume.pdf).
